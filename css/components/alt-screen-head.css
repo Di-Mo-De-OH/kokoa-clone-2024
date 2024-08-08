@@ -5,15 +5,20 @@
     align-items: center;
     justify-content: center;
 }
+
 .alt-head__title{
     font-size: 32px;
     font-weight: 600;
 }
 .alt-head__column:first-child{
     margin-right: auto;
-    ;
-
 }
+
 .alt-head__column:last-child{
     margin-left: auto;
+ 
+}
+.alt-head__column span:last-child{
+    margin-left:20px ;
+  
 }
